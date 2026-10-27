@@ -1,6 +1,8 @@
 # NFC Card — Temperature and Humidity Sensor
 
-[![OSHWA Certified Open Source Hardware — NL000047](images/certification-mark-NL000047-wide.png)](https://certification.oshwa.org/nl000047.html)
+<a href="https://certification.oshwa.org/nl000047.html"><img src="images/certification-mark-NL000047-wide.png" alt="OSHWA Certified Open Source Hardware — NL000047" width="300"></a>
+
+This project is built around **OSHWA-certified open source hardware**, certified under [NL000047](https://certification.oshwa.org/nl000047.html).
 
 A phone-powered NFC sensor board for reading temperature and relative humidity. The board uses an NXP NTAG device and a Sensirion SHT40 sensor to take a measurement and return it to a mobile phone over NFC.
 
